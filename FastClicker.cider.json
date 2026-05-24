@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "app": "Cider",
+  "macro": {
+    "action": "M1",
+    "key_name": "App",
+    "key_vk": 93,
+    "hotkey_name": "F1",
+    "hotkey_vk": 112,
+    "interval_ms": 10,
+    "hold_ms": 1,
+    "limit_enabled": false,
+    "action_limit": 100,
+    "sequence_enabled": false,
+    "sequence": []
+  }
+}
